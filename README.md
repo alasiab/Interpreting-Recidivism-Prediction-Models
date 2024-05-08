@@ -3,12 +3,19 @@
 
 Final Project for Interpretable Machine Learning Spring 2024
 
-Link Google Colab Notebooks: 
+Links to Google Colab Notebooks: 
+
+
 LIME on General Model: https://colab.research.google.com/drive/1KCBTrKf2lJASUXW3Hd5IeNJa_2-Udm1J?usp=sharing
+
 Female Only Data LIME: https://colab.research.google.com/drive/1kRR39Xpd0VA1el8BADaZNSsnb3mXPoAM?usp=sharing
+
 Male Only Data LIME: https://colab.research.google.com/drive/1QS27xPML7nD7W9xc6VdKmydQwO_QXq1N?usp=sharing
+
 Gang Affiliated Only Data LIME: https://colab.research.google.com/drive/11nDol4SLAU8FY_jyzJtf4XwMiKawNzSO?usp=sharing
+
 Not Gang Affiliated Only Data LIME: https://colab.research.google.com/drive/1Qy9MvRNzsbdx5uPcXLQ_JF9tVeoUqpgp?usp=sharing
+
 Accurate vs Inaccurate Prediction LIME Summaries: https://colab.research.google.com/drive/1mxy2TsRqwmuJcZi1ai3M8K0Yt_kecJzC?usp=sharing
 
 ## Introduction 
