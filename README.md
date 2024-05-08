@@ -1,5 +1,4 @@
 # Interpreting-Recidivism-Prediction-Models
-# Who Painted This? Van Gogh, Dali, or Picasso?
 
 Final Project for Interpretable Machine Learning Spring 2024
 
